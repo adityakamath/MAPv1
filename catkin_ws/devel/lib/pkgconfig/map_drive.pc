@@ -1,0 +1,8 @@
+prefix=/home/rpi1/catkin_ws/devel
+
+Name: map_drive
+Description: Description of map_drive
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rpi1/catkin_ws/devel/lib 
+Requires: 
